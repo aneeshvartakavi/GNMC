@@ -2,6 +2,11 @@
 
 We present the Gracenote Multi-Crop (GNMC) dataset, to further research in algorithms for aesthetic image cropping. The dataset consists of a diverse collection of 10K images, each cropped in five different aspect ratios by experienced editors. GNMC is larger than existing datasets commonly used to benchmark image cropping approaches such as FCDB (1743 images) and FLMS (500 images). This dataset can enable aesthetic cropping algorithms as described in "[An Experience-Based Direct Generation Approach to Automatic Image Cropping](https://ieeexplore.ieee.org/document/9500226/)" by Christensen and Vartakavi. 
 
+<br />
+
+![Crop Example](./images/crop_example.jpg)
+
+
 ## License
 
 This dataset is distributed under the [polyform non-commercial license](https://polyformproject.org/licenses/noncommercial/1.0.0/).
