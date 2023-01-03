@@ -4,7 +4,7 @@ We present the Gracenote Multi-Crop (GNMC) dataset, to further research in algor
 
 <br />
 
-![Crop Example](./images/crop_example.jpg)
+![Crop Example](./images/crop_example_multiple.jpeg)
 
 
 ## License
