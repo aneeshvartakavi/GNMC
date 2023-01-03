@@ -53,6 +53,6 @@ You can cite the dataset like so:
 
 >Vartakavi, Aneesh. (2022). The Gracenote Multi-Crop Dataset (0.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6228834
 
-You may also be interested in our related work:
+You may also be interested in [our related work](https://ieeexplore.ieee.org/document/9500226/):
 
 >C. L. Christensen and A. Vartakavi, "An Experience-Based Direct Generation Approach to Automatic Image Cropping," in IEEE Access, vol. 9, pp. 107600-107610, 2021, doi: 10.1109/ACCESS.2021.3100816.
